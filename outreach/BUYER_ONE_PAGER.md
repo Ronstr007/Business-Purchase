@@ -9,7 +9,7 @@ I am looking to acquire one high-quality Canadian business with a recognized bra
 ## Investment Focus
 
 - **Established brand.** Preferably Canadian, 25+ years old, with durable or evergreen products and strong distribution.
-- **Size.** Revenue generally $15M-$50M; normalized EBITDA typically $3M-$6M; purchase price generally $10M-$15M, with flexibility for an exceptional fit.
+- **Size.** Revenue generally $15M-$50M; sustainable or normalized EBITDA typically $3M-$6M, with flexibility for an exceptional fit.
 - **Sectors.** Spirits and beverage, food/CPG, sporting and outdoor goods, and other branded specialty consumer products.
 - **Geography.** Quebec preferred; Ontario and the rest of Canada considered.
 - **Ownership.** Seeking majority control or 100% ownership. Meaningful U.S. exposure can be attractive, particularly where tariffs have created temporary pressure.
