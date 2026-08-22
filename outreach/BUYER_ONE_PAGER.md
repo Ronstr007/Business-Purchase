@@ -23,10 +23,11 @@ I am looking to acquire one high-quality Canadian business with a recognized bra
 
 ## Why Ron
 
-- **Entrepreneur and operator.** Co-founder and Chief Innovator of The Mad Science Group, helping build a local concept into an international franchise organization operating across 29 countries.
-- **Three decades of company-building experience.** Brand development, franchise systems, partnerships, distribution, governance and growth across Canada, the U.S. and international markets.
-- **Public-sector leadership.** Former Canada's inaugural Entrepreneur in Residence with the Office of the Chief Science Advisor, working across federal institutions on complex innovation, regulatory and implementation initiatives.
-- **Principal buyer mindset.** I am not a broker. My objective is to become the next responsible owner, preserve what made the company valuable and build its next chapter.
+- **Entrepreneur, operator and brand builder.** Co-founder and Chief Innovator of The Mad Science Group, helping build a local concept into an international franchise organization operating across 29 countries.
+- **Four decades of company-building experience.** Experience spanning brand development, franchise systems, partnerships, distribution, governance, negotiation and international growth across Canada, the U.S. and global markets.
+- **Deep founder and cross-border perspective.** Extensive experience working with owner-led businesses, franchisees, partners and commercial relationships across multiple jurisdictions, including the U.S. market.
+- **Public-sector leadership and complex problem solving.** Former Canada's inaugural Entrepreneur in Residence with the Office of the Chief Science Advisor, working across federal institutions on complex innovation, regulatory and implementation initiatives.
+- **Principal buyer mindset.** I am not a broker or financial intermediary. My objective is to become the next responsible owner, preserve what made the company valuable, support its people and build its next chapter over the long term.
 
 ## Confidential Introductions Welcome
 
