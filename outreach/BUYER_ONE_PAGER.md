@@ -33,6 +33,12 @@ I am not building a portfolio or brokering transactions. I am looking for **one 
 - **Minority rollover welcomed, not required.** If it suits the seller, they may retain a minority interest and participate in future upside while stepping back from day-to-day control.
 - **Flexible and confidential.** Timing and structure can be adapted to the owner, and Ron can engage discreetly before a formal sale process begins.
 
+## Capital & Execution
+
+- **Capital matched to the transaction.** Ron expects to invest personal capital directly. Depending on the size and structure of the acquisition, that capital can be supplemented by established banking relationships, family capital, aligned co-investors and seller participation where appropriate.
+- **No rigid fund structure.** The business does not have to fit a predetermined financing formula. The capital structure can be tailored to the company, the seller's objectives and the scale of the transaction.
+- **Serious and executable.** Once the right company is identified, Ron can assemble the appropriate capital stack and experienced professional team to move efficiently through diligence, financing, documentation and closing.
+
 ## Confidential Introductions Welcome
 
 **If you advise or know an owner who is beginning to think about succession - or whose fundamentally strong business is facing a temporary external challenge - I would value a confidential introduction. I am particularly interested in situations where continuity, fit and legacy matter alongside price.**
