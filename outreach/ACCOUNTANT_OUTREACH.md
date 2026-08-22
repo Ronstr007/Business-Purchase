@@ -10,15 +10,15 @@
 
 The sourcing strategy calls for a highly curated list of approximately **50 senior accountants / advisors**, focused primarily on Quebec and secondarily on Ontario.
 
-As of **2026-08-22**, the repository does **not yet contain a reliable record of specific accountant outreach already sent**. No individual should be marked as contacted unless a sent email, reply, call, meeting, or other outreach is actually confirmed.
+As of **2026-08-22**, the repository now contains the first named target. No individual should be marked as contacted unless a sent email, reply, call, meeting, or other outreach is actually confirmed.
 
 ### Current funnel
 
 | Stage | Count | Notes |
 |---|---:|---|
-| Target accountants identified | 0 confirmed in repo | Individual names still need to be formally loaded into this tracker |
-| Direct emails verified | 0 confirmed in repo | Do not guess email addresses |
-| Ready to contact | 0 | Buyer one-pager is ready |
+| Target accountants identified | 1 | Martin Rosenthal, EY-Parthenon |
+| Direct emails verified | 1 | Publicly verified professional email |
+| Ready to contact | 1 | Customized outreach drafted for Martin |
 | Initial outreach sent | 0 confirmed | Update only when actual send is confirmed |
 | Replies received | 0 confirmed | |
 | Calls / meetings held | 0 confirmed | |
@@ -81,6 +81,7 @@ Do not add a person simply to reach 50 names. Each target should have a clear re
 
 | Priority | Name | Firm | Role | City | Direct Email | Why Relevant | Relationship / Referral Path | Status | Buyer Profile Sent? | Last Contact | Response | Next Step | Follow-up Date | Notes |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 1 | Martin Rosenthal | EY-Parthenon / Ernst & Young | Turnaround & Restructuring | Montreal | martin.rosenthal@parthenon.ey.com | Deep restructuring/turnaround experience; likely exposure to long-time owners facing succession, liquidity pressure or temporary business dislocation | Shared Akiva School community connection; both families had children attend Akiva. Martin also served Akiva as Treasurer and President. | Ready to send | No | | | Send customized email with bilingual buyer profile attached | | Keep personalization light and genuine; do not overplay school connection |
 | 1 | _To add_ | KPMG | Private Enterprise / Tax / Deal Advisory / Restructuring | Montreal / Quebec | _Verify_ | Long-standing private-company relationships | | Researching | No | | | Identify best individual partner(s) | | |
 | 1 | _To add_ | KPMG | Private Enterprise / Tax / Deal Advisory / Restructuring | Toronto / Ontario | _Verify_ | Long-standing private-company relationships | | Researching | No | | | Identify best individual partner(s) | | |
 | | | | | | | | | | | | | | | |
@@ -155,7 +156,7 @@ No outreach should live only in memory or email. Once it happens, update this tr
 - [ ] Prioritize KPMG and other firms with deep private-enterprise/family-business practices.
 - [ ] Select individual partners based on likely client fit, not seniority alone.
 - [ ] Verify every direct email address; do not guess.
-- [ ] Prepare the short cover email that accompanies the one-pager.
+- [x] Prepare the first customized recipient email (Martin Rosenthal).
 - [ ] Send in small batches so messaging can be refined based on response quality.
 - [ ] Log every send, response, follow-up, and introduction in this file.
 
@@ -165,4 +166,5 @@ No outreach should live only in memory or email. Once it happens, update this tr
 
 | Date | Accountant | Firm | Action | Result | Next Action |
 |---|---|---|---|---|---|
+| 2026-08-22 | Martin Rosenthal | EY-Parthenon / Ernst & Young | Researched and customized outreach prepared | Ready to send; not yet contacted | Send customized email with bilingual buyer profile |
 | 2026-08-22 | — | — | Tracker created | No prior individual outreach confirmed in repository | Build and verify first Top 20 |
