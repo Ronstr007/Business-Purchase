@@ -2,46 +2,48 @@
 
 **(514) 884-6190 | ron@madscience.org | Montreal, Quebec**
 
-## Seeking one exceptional Canadian branded business - as a successor, not simply a buyer
+## Seeking one exceptional Canadian branded business - as its next owner, not simply its buyer
 
-I am not building a portfolio or brokering transactions. I am looking for **one exceptional business** where I can bring four decades of operating experience, capital, judgment and long-term commitment. For the right owner, I offer more than a price: **a credible successor, a thoughtful transition, and confidence that the people, brand and legacy will matter after closing.**
+I know that for someone who has spent decades building a business, choosing a buyer is about more than price. It is about **who will lead the people, protect the relationships, understand what made the company special and have the judgment and resources to take it forward.**
 
-## What I Am Seeking
+I am looking for **one exceptional Canadian branded business to personally own and grow**. I am not building a portfolio and I am not brokering transactions. I want to bring four decades of operating experience, capital, judgment and long-term commitment to a company where I can help build an equally strong next chapter.
 
-- **Established brand.** Preferably Canadian and ideally 25+ years old, with durable demand, proven customer loyalty and strong distribution.
-- **Scale.** Generally $15M-$50M in revenue with a proven history of profitability; flexible for an exceptional brand or strategic fit.
-- **Sectors.** Spirits and beverage, food/CPG, sporting and outdoor goods, and other branded specialty consumer products.
+## What I Am Looking For
+
+- **An established brand.** Preferably Canadian and ideally 25+ years old, with durable demand, loyal customers and strong distribution.
+- **A proven business.** Generally $15M-$50M in revenue with a meaningful history of profitability; I am flexible for an exceptional brand or strategic fit.
+- **Preferred sectors.** Spirits and beverage, food/CPG, sporting and outdoor goods, and other branded specialty consumer products.
 - **Geography.** Quebec preferred; Ontario and the rest of Canada considered.
-- **Situations.** Especially interested in a founder or long-time owner beginning to plan retirement or succession, and in fundamentally strong businesses temporarily pressured by Canada-U.S. tariffs or another fixable issue. The strongest fit may combine both.
-- **Ownership.** Seeking majority control or 100% ownership.
+- **The right situation.** I am particularly interested in a founder or long-time owner beginning to think about retirement or succession. I am also interested in fundamentally strong businesses temporarily pressured by Canada-U.S. tariffs or another fixable issue. The strongest opportunity may combine both.
+- **Ownership.** I am seeking majority control or 100% ownership.
 
-## Why an Owner May Choose Ron
+## Why I May Be the Right Next Owner
 
-**Many buyers can bring capital. Ron brings four decades of founder-level operating experience, a record of building multiple businesses through strong teams, and the judgment to take over what another entrepreneur spent a lifetime creating without losing what made it special.**
+**I am not looking for a company to teach me how to be an entrepreneur. I have spent four decades building businesses. I am looking for one exceptional company where that experience - and my ability to build strong teams - can help write its next chapter.**
 
-- **Serial entrepreneur, not a career financial buyer.** Ron has spent four decades building, scaling and leading multiple businesses. He has lived the realities of ownership - creating products and brands, serving customers, managing cash flow, navigating difficult cycles and making the decisions that only owners have to make.
-- **Proven at scale.** As co-founder and Chief Innovator of The Mad Science Group, Ron helped build a local concept into an international franchise organization operating across 29 countries. That required brand building, systems, partnerships, distribution, governance, negotiation and the ability to execute through people across markets.
-- **Builds teams, not dependence.** Ron's strength is identifying talented people, bringing complementary capabilities together and giving strong leaders the room and responsibility to lead. He knows when others know more, and how to harness that expertise. His goal is to strengthen the team already in place and build an organization that can thrive beyond any one individual.
-- **Founder-to-founder perspective.** Ron understands that a company built over decades is more than a financial asset. Employees, customers, reputation, culture and legacy matter. He wants to understand what made the company successful, preserve those strengths and build the next chapter from that foundation - not impose a generic playbook.
-- **A direct principal with a long-term horizon.** Ron is not a broker assembling listings or a fund filling a portfolio. He is seeking one business to personally own, steward and grow. There is no fund mandate or arbitrary exit clock forcing short-term decisions.
-- **Trusted judgment.** Ron has also been entrusted with consequential public-service roles, including serving as Canada's inaugural Entrepreneur in Residence with the Office of the Chief Science Advisor and as a Presiding Official for Canadian citizenship ceremonies. He brings discretion, judgment and respect for the responsibility that comes with taking over another entrepreneur's life's work.
+- **I am a serial entrepreneur and experienced operator.** I have spent four decades building, scaling and leading multiple businesses. I know the realities of ownership first-hand: creating products and brands, winning customers, managing cash flow, navigating difficult periods, making hard decisions and staying focused on long-term value.
+- **I have built at scale.** As co-founder and Chief Innovator of The Mad Science Group, I helped grow a local concept into an international franchise organization operating across 29 countries. That required brand building, systems, partnerships, distribution, governance, negotiation and the ability to execute through people across very different markets.
+- **I build through people.** Some of my best decisions have been finding people who know more than I do in their area, bringing complementary strengths together and giving talented leaders the trust and room to lead. I believe a strong company should become stronger because of its people, not dependent on one person - including me.
+- **I understand the founder's side of the table.** A company built over decades is not simply a financial asset. It carries relationships, reputation, culture, pride and often a large part of a founder's life. My instinct would be to **listen first**: understand why customers stay, which people make the business work, what the founder is proudest of and what should not be changed before deciding what can be improved.
+- **I am a direct principal with a long-term horizon.** I am not a broker assembling listings or a fund trying to fill a portfolio. I am looking for one business to personally own, steward and grow. There is no arbitrary fund exit clock forcing short-term decisions.
+- **I have been trusted with consequential responsibilities beyond business.** I served as Canada's inaugural Entrepreneur in Residence with the Office of the Chief Science Advisor and serve as a Presiding Official for Canadian citizenship ceremonies. Those roles have reinforced the importance of judgment, discretion, fairness and earning trust.
 
-## A Seller-Friendly Transition
+## How I Would Approach a Transition
 
-- **No requirement to disappear at closing.** A measured handoff is preferred so relationships, knowledge and culture transfer properly.
-- **Continuity matters.** The objective is to retain and empower strong management and employees, not replace people simply because ownership changed.
-- **Minority rollover welcomed, not required.** If it suits the seller, they may retain a minority interest and participate in future upside while stepping back from day-to-day control.
-- **Flexible and confidential.** Timing and structure can be adapted to the owner, and Ron can engage discreetly before a formal sale process begins.
+- **I do not expect a founder to disappear at closing.** I would prefer a measured handoff that protects customer, employee, supplier and distributor relationships and transfers the knowledge that took years to build.
+- **I want to keep and empower strong people.** A change in ownership is not a reason to replace a good management team. My first objective would be to understand the people and culture that already make the business successful.
+- **The seller can remain economically involved if desired.** I am open to a minority rollover where it creates alignment and allows the founder to participate in future upside, but it is not a requirement.
+- **The process can be private and flexible.** I am comfortable beginning a confidential conversation well before a formal sale process and adapting timing and structure to the owner and the business.
 
-## Capital & Execution
+## Capital & Ability to Close
 
-- **Capital matched to the transaction.** Ron expects to invest personal capital directly. Depending on the size and structure of the acquisition, that capital can be supplemented by established banking relationships, family capital, aligned co-investors and seller participation where appropriate.
-- **No rigid fund structure.** The business does not have to fit a predetermined financing formula. The capital structure can be tailored to the company, the seller's objectives and the scale of the transaction.
-- **Serious and executable.** Once the right company is identified, Ron can assemble the appropriate capital stack and experienced professional team to move efficiently through diligence, financing, documentation and closing.
+I expect to invest **personal capital directly**. Depending on the scale and structure of the transaction, I can supplement that with established banking relationships, family capital, aligned co-investors and seller participation where appropriate. I am not constrained by a rigid fund formula; the financing can be built around the right business and the seller's objectives.
+
+Once the right company is identified, I can assemble the appropriate capital and experienced professional team to move seriously and efficiently through diligence, financing, documentation and closing.
 
 ## Confidential Introductions Welcome
 
-**If you advise or know an owner who is beginning to think about succession - or whose fundamentally strong business is facing a temporary external challenge - I would value a confidential introduction. I am particularly interested in situations where continuity, fit and legacy matter alongside price.**
+**If you know an owner who has built something special and is beginning to think about what comes next, I would value a confidential conversation - even if the company is not formally for sale.** I am particularly interested in situations where the owner cares not only about value, but also about who takes the business forward.
 
 ---
 
