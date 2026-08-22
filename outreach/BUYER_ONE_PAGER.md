@@ -21,15 +21,23 @@ I am looking to acquire one high-quality Canadian business with a recognized bra
 - **Minority rollover welcomed, not required.** I am open to the seller retaining a minority interest and participating in future upside while transitioning out of day-to-day control.
 - **Legacy matters.** The best fit is an owner who cares about employees, customers, brand heritage and continuity, and is open to a confidential or off-market conversation.
 
-## Why Ron
+## What Makes Ron Different
 
-- **Serial entrepreneur and proven operator.** Four decades of hands-on experience building, scaling and leading multiple businesses. Ron has lived the realities of ownership — creating products and brands, serving customers, managing cash flow, making difficult decisions, navigating setbacks and building long-term enterprise value.
-- **Strong team builder and talent multiplier.** Ron's approach has always been to surround himself with capable people, recognize where others know more, give strong leaders room to lead and bring together different talents around a common objective. He builds organizations that draw strength from their people rather than depend on one individual.
-- **Built an international business from the ground up.** As co-founder and Chief Innovator of The Mad Science Group, Ron helped grow a local concept into an international franchise organization operating across 29 countries, developing deep experience in brand building, franchising, partnerships, distribution and cross-border growth.
-- **Founder-to-founder perspective.** Ron understands what it means to spend decades creating a business. A sale is not simply a multiple and a closing date; reputation, employees, customers, culture and legacy matter. His objective is to preserve what made the company successful and build on the foundation the owner created.
-- **Experienced negotiator and decision-maker.** His career has involved complex commercial agreements, franchise relationships, partnerships, governance and consequential decisions across Canada, the U.S. and international markets.
-- **A trusted steward.** Ron has been entrusted with roles in both business and public service, including serving as Canada's inaugural Entrepreneur in Residence with the Office of the Chief Science Advisor and as a Presiding Official for Canadian citizenship ceremonies. He brings discretion, judgment and respect for the responsibilities that come with taking over another entrepreneur's life's work.
-- **Principal buyer with a long-term mindset.** Ron is not a broker or financial intermediary. He is seeking one business to own, steward and grow, with the experience and patience to support a thoughtful transition and the ambition to create the company's next chapter.
+**Many buyers can bring capital. Ron brings four decades of founder-level operating experience, a record of building multiple businesses through strong teams, and the judgment to take over what another entrepreneur spent a lifetime creating without losing what made it special.**
+
+- **A builder, not a financial buyer.** Ron is a serial entrepreneur who has spent four decades creating, scaling and leading businesses. He has built brands, developed products, opened markets, navigated difficult cycles and made the decisions that only owners have to make. He understands a business from the inside because he has lived it.
+
+- **He builds through people.** One of Ron's greatest strengths is identifying talented people, bringing complementary strengths together and creating the conditions for them to do their best work. He does not need to be the smartest person in every room. He knows how to find the people who are, align them around a clear objective, give them responsibility and let them lead. That ability to harness talent has been central to building organizations that can grow beyond any one individual.
+
+- **He has built at scale.** As co-founder and Chief Innovator of The Mad Science Group, Ron helped grow a local concept into an international franchise organization operating across 29 countries. That experience required far more than growth capital: it required brand building, systems, partnerships, distribution, governance, negotiation, cultural adaptability and the ability to lead through other people across markets.
+
+- **Founder-to-founder, not buyer-to-seller.** Ron understands what it means to spend decades creating a company. For the right owner, price matters, but so do employees, customers, reputation, culture and legacy. His objective is not to arrive on closing day and erase the founder. It is to understand what made the company successful, preserve it, strengthen the team and build the next chapter from that foundation.
+
+- **A patient successor.** Ron is not looking for a seller who must disappear the day after closing. He prefers an orderly transition and is open to the founder remaining involved for a period or retaining a minority interest if that creates alignment. The goal is continuity first, then thoughtful growth.
+
+- **Trusted with consequential responsibility.** Ron has been entrusted with leadership roles beyond his own businesses, including serving as Canada's inaugural Entrepreneur in Residence with the Office of the Chief Science Advisor and as a Presiding Official for Canadian citizenship ceremonies. Those roles reflect the same qualities he brings to an acquisition: discretion, judgment, fairness and respect for the responsibility placed in him.
+
+- **One business, personally owned and led.** Ron is not a broker assembling listings, a fund filling a portfolio, or a first-time operator searching for a platform. He is looking for one exceptional business to personally own, steward and grow over the long term.
 
 ## Confidential Introductions Welcome
 
