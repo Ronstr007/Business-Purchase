@@ -1,37 +1,37 @@
-# Ron Shlien, MSM - Confidential Buyer Profile
+# Ron Shlien, MSM - Business Acquisition Profile
 
-**Entrepreneur-led acquisition of an established Canadian branded business**  
-Montreal, Quebec | [LinkedIn](https://www.linkedin.com/in/ron-shlien-msm/)
+**(514) 884-6190 | ron@madscience.org | Montreal, Quebec**
 
-> I am looking to acquire and build a durable Canadian consumer brand - not broker a transaction. I am particularly interested in two situations: an established founder or long-time owner who is ready to retire or transition out, and a fundamentally strong business where tariffs or another fixable issue have created temporary earnings pressure or a valuation dislocation. The strongest opportunity is where both are true.
+## Seeking one established Canadian branded business as a principal owner and long-term operator
 
-## What I am looking for
+I am looking to acquire one high-quality Canadian business with a recognized brand, durable demand and proven distribution. Two situations are especially attractive: (1) a founder or long-time owner beginning to plan retirement or succession, and (2) a fundamentally strong business whose current earnings or value have been temporarily pressured by Canada-U.S. tariffs or another fixable issue. The strongest fit may combine both.
 
-- **Established founder or long-time owner considering retirement, succession, or a meaningful liquidity event**, ideally without an obvious family or management successor.
-- **A fundamentally strong business facing temporary pressure**, particularly from Canada-U.S. tariffs, where the underlying brand, demand and distribution remain intact.
-- Known Canadian brand with durable demand and strong distribution.
-- Preferred sectors: **spirits & beverage, food/CPG, sporting & outdoor goods, and other branded specialty products**.
-- Revenue: approximately **$15M-$50M**; normalized EBITDA typically **$3M-$6M**.
-- Sweet-spot purchase price: approximately **$10M-$15M**, with flexibility for an exceptional fit.
-- Majority or 100% acquisition; **Quebec preferred**, Ontario and the rest of Canada considered.
-- Particularly interested in **25+ year brands**, businesses without an obvious family or management successor, and companies with meaningful U.S. exposure where tariffs have temporarily impaired earnings or value.
-- I prefer an owner who is **not under pressure to leave immediately** and is willing to support a thoughtful transition of relationships, knowledge and operating context.
-- If it suits the seller, I am open to the owner **retaining a minority interest after closing** so they can participate in the next chapter. This is a preference, not a requirement.
-- Less interested in commodity businesses, furniture, early-stage startups, or businesses whose value depends primarily on real estate.
+## Investment Focus
 
-## Why I am a credible buyer
+- **Established brand.** Preferably Canadian, 25+ years old, with durable or evergreen products and strong distribution.
+- **Size.** Revenue generally $15M-$50M; normalized EBITDA typically $3M-$6M; purchase price generally $10M-$15M, with flexibility for an exceptional fit.
+- **Sectors.** Spirits and beverage, food/CPG, sporting and outdoor goods, and other branded specialty consumer products.
+- **Geography.** Quebec preferred; Ontario and the rest of Canada considered.
+- **Ownership.** Seeking majority control or 100% ownership. Meaningful U.S. exposure can be attractive, particularly where tariffs have created temporary pressure.
 
-- **Co-founder and Chief Innovator of Mad Science Group**, built from a local concept into an international franchise organization operating across 29 countries.
-- More than three decades of experience building brands, franchise systems, partnerships and distribution across Canada, the U.S. and international markets.
-- Former **Entrepreneur-in-Residence with the Office of the Chief Science Advisor of Canada**, working on complex cross-government and innovation initiatives.
-- Experienced with founder-led businesses, governance, negotiation and long-term value creation.
-- Principal buyer with an operator mindset: focused on preserving what made the company valuable, supporting its people and building the next chapter - not financial engineering.
-- Discreet and comfortable engaging before a formal sale process begins. Transaction structure, seller participation and transition timing can be adapted to the owner and the opportunity.
+## Ideal Owner & Transition
 
-## The introduction I am looking for
+- **Succession-minded owner.** Founder or long-time owner, typically later in career, beginning to think seriously about retirement or succession; no obvious family or internal successor is especially relevant.
+- **No need for an immediate exit.** I prefer a thoughtful transition in which the owner remains involved for an appropriate period to transfer relationships, knowledge and culture.
+- **Minority rollover welcomed, not required.** I am open to the seller retaining a minority interest and participating in future upside while transitioning out of day-to-day control.
+- **Legacy matters.** The best fit is an owner who cares about employees, customers, brand heritage and continuity, and is open to a confidential or off-market conversation.
 
-**If you advise, know or represent a founder or long-time business owner who is beginning to think about retirement, succession or a meaningful transition - or a strong branded business being temporarily hurt by tariffs - I would value a confidential introduction. The ideal situation may involve both: an owner ready for the next chapter and a good business facing a temporary challenge. I am especially interested in owners who care about the future of the brand, employees and legacy they have built, and who would value an orderly handoff rather than an abrupt exit.**
+## Why Ron
+
+- **Entrepreneur and operator.** Co-founder and Chief Innovator of The Mad Science Group, helping build a local concept into an international franchise organization operating across 29 countries.
+- **Three decades of company-building experience.** Brand development, franchise systems, partnerships, distribution, governance and growth across Canada, the U.S. and international markets.
+- **Public-sector leadership.** Former Canada's inaugural Entrepreneur in Residence with the Office of the Chief Science Advisor, working across federal institutions on complex innovation, regulatory and implementation initiatives.
+- **Principal buyer mindset.** I am not a broker. My objective is to become the next responsible owner, preserve what made the company valuable and build its next chapter.
+
+## Confidential Introductions Welcome
+
+**If you advise or know an owner who may fit this profile - even if the company is not formally for sale - I would value an introduction. I can engage discreetly and structure the transition around the owner's timing and priorities.**
 
 ---
 
-**Ron Shlien, MSM** | Montreal, Quebec | [linkedin.com/in/ron-shlien-msm](https://www.linkedin.com/in/ron-shlien-msm/)
+**Ron Shlien, MSM | (514) 884-6190 | ron@madscience.org**
