@@ -13,9 +13,7 @@ Acquire a fundamentally strong, established Canadian branded business where one 
 1. **Succession / retirement:** a founder or long-time owner is ready to retire, step back, or achieve a meaningful liquidity event, ideally without an obvious family or management successor.
 2. **Temporary dislocation:** tariffs or another fixable issue have materially impaired current earnings or valuation while the underlying brand, demand, distribution, and franchise remain strong.
 
-The **highest-priority opportunity is where both are true at once**: an established owner is ready for the next chapter just as a temporary external pressure has made a good business harder to run or temporarily less valuable.
-
-The preferred opportunity is a company that was previously worth roughly **$20M–$30M**, had historically generated approximately **$3M–$6M EBITDA**, and can now potentially be acquired for roughly **$10M–$15M**, with flexibility for an exceptional fit.
+The **highest-priority opportunity is where both are true at once**: an established owner is ready for the next chapter just as temporary external pressure has made a good business harder to run or temporarily less valuable.
 
 The preferred seller is **not in a rush to disappear immediately after closing**. A thoughtful transition is desirable, and the seller may retain a minority interest if that suits both parties. Seller rollover is attractive for continuity and alignment but is **not a requirement**.
 
@@ -42,15 +40,15 @@ The core thesis is to buy a durable brand at an attractive price, preserve what 
 - Retirement or succession planning.
 - Founder fatigue after decades of ownership.
 - Family members are not interested in taking over.
-- Management team can operate the company but cannot finance a buyout.
+- Management can operate the company but cannot finance a buyout.
 - Owner wants to de-risk personally and monetize the majority or all of the equity while potentially keeping a minority stake.
 - Company has suffered a temporary tariff, FX, customer, channel, or other fixable earnings disruption just as the owner is considering retirement.
 - Owner has delayed succession because they have not found a buyer they trust.
 - Owner values a measured handoff over a rapid closing followed by an immediate departure.
 
-### Seller situations that are less attractive
+### Less attractive seller situations
 
-- Owner wants to raise minority growth capital but remain firmly in control indefinitely.
+- Owner wants only minority growth capital and intends to remain firmly in control indefinitely.
 - Seller is seeking an unrealistic auction valuation with no genuine motivation to transact.
 - Founder is indispensable and unwilling to transition relationships or responsibilities.
 - Seller insists on disappearing immediately where substantial knowledge or relationships remain concentrated with them.
@@ -60,17 +58,17 @@ The core thesis is to buy a durable brand at an attractive price, preserve what 
 
 ## 3. Ideal Business Profile
 
-### Financial
+### Financial screening parameters
 
 | Metric | Preferred Range / Profile |
 |---|---:|
 | Revenue | $15M–$50M |
 | Historical / normalized EBITDA | $3M–$6M |
-| Current EBITDA | Can be lower if temporary and explainable |
-| Pre-dislocation enterprise value | ~$20M–$30M where applicable |
-| Sweet-spot purchase price | ~$10M–$15M |
-| Desired valuation haircut | ~40%–60% where a dislocation exists |
-| U.S. revenue exposure | Attractive where tariffs are a major cause of pressure |
+| Current EBITDA | Can be materially lower if temporary and explainable |
+| Pre-dislocation enterprise value | Roughly $20M–$30M where applicable |
+| Internal sweet-spot acquisition price | Roughly $10M–$15M, but never disclose as a public buyer anchor |
+| Desired valuation haircut | Roughly 40%–60% where a genuine dislocation exists |
+| U.S. exposure | Attractive where tariffs are a major cause of pressure |
 
 These are screening parameters, not rigid rules. Exceptional brands may justify deviation.
 
@@ -126,7 +124,7 @@ Preferred businesses have most of the following characteristics:
 - Commodity manufacturing without differentiated IP, brand, or customer relationships.
 - Businesses requiring a heroic operational turnaround unrelated to a clearly fixable issue.
 - Trend-driven products with uncertain long-term demand.
-- Businesses whose historical earnings were dependent on one temporary customer or one-time event.
+- Businesses whose historical earnings depended on one temporary customer or one-time event.
 - Businesses whose value depends primarily on owned real estate.
 - Early-stage startups.
 
@@ -168,8 +166,6 @@ The strongest opportunities are likely to be identified **before a formal sale p
 
 ### Potential structural tools
 
-Depending on the target:
-
 - Seller note.
 - Earn-out tied to normalized EBITDA or U.S. recovery.
 - Vendor take-back financing.
@@ -178,8 +174,6 @@ Depending on the target:
 - Inventory financing.
 - Asset purchase versus share purchase optimization.
 - Contingent consideration tied to tariff relief or restored U.S. sales.
-
-The preferred outcome gives the owner meaningful liquidity and a path to retirement while allowing a **thoughtful handoff rather than an abrupt departure**.
 
 ---
 
@@ -195,7 +189,7 @@ The ideal succession pattern is:
 2. Business remains fundamentally healthy.
 3. Owner is approaching retirement or wants liquidity and less day-to-day responsibility.
 4. There is no obvious family or internal successor.
-5. The owner cares about continuity, reputation, employees, and legacy.
+5. Owner cares about continuity, reputation, employees, and legacy.
 6. A direct principal buyer can offer a more personal and flexible transition than a broad auction process.
 7. Owner is willing to remain involved long enough to transfer key relationships and institutional knowledge.
 8. Owner may, but need not, retain a minority interest after the transaction.
@@ -211,25 +205,42 @@ The preferred pattern is:
 3. Tariffs materially damage gross margin, order volume, distributor economics, or competitiveness.
 4. EBITDA falls sharply.
 5. Owner becomes fatigued, overleveraged, succession-constrained, or unwilling to fund the adaptation period.
-6. Buyers value the company on current earnings rather than normalized earnings.
+6. Buyers value the company on current sustainable earnings rather than simply accepting historic consolidated EBITDA.
 7. Acquisition occurs at a significant discount to historical value.
-8. Value is recovered through tariff normalization, repricing, sourcing changes, U.S. production, channel redirection, geographic diversification, SKU changes, or strategic resale.
+8. Value may later be recovered through tariff normalization, repricing, sourcing changes, U.S. production, channel redirection, geographic diversification, SKU changes, or strategic resale.
 
 ### Best-case intersection
 
-The **highest-conviction target** is a long-time owner who was already considering retirement or succession and then experiences tariff-related or other temporary pressure. This combination can create both genuine motivation to sell and an unusually attractive valuation.
-
-An especially attractive version is an owner who wants substantial liquidity and reduced responsibility **but is willing to stay involved during a transition and perhaps retain a minority stake**, aligning incentives while the business stabilizes.
-
-The key underwriting question for every dislocated target is:
-
-> **Is the earnings decline temporary and fixable, or has the underlying franchise permanently deteriorated?**
-
-Never rely solely on tariffs disappearing.
+The **highest-conviction target** is a long-time owner who was already considering retirement or succession and then experiences tariff-related or another temporary pressure. This creates both genuine motivation to transact and a potential valuation opportunity.
 
 ---
 
-## 8. Primary Sourcing Strategy
+## 8. Valuation Philosophy for Tariff-Affected Businesses
+
+Do **not** publicly disclose a purchase-price range or give sellers an advance valuation anchor in the one-page buyer profile.
+
+For a tariff-affected target, the base valuation should be driven primarily by **sustainable Canadian and non-U.S. EBITDA**, plus only the portion of U.S. earnings that remains demonstrably sustainable under current conditions.
+
+### Base-case rule
+
+> **No valuation credit should be assigned to tariff-impaired U.S. earnings that are not currently sustainable or whose recovery depends on tariff normalization.**
+
+This does **not** mean U.S. sales, customers, distribution, or brand presence have zero strategic value. It means the acquisition multiple should not automatically be applied to historic U.S. EBITDA that has disappeared.
+
+### Underwriting treatment
+
+- Sustainable Canada EBITDA: include in base valuation.
+- Sustainable non-U.S. international EBITDA: include in base valuation.
+- Sustainable U.S. EBITDA still being earned under current tariffs: include if proven.
+- Historic U.S. EBITDA that has disappeared because of tariffs: **zero base valuation credit**.
+- Current U.S. operating losses: deduct or explicitly model the cost to stabilize/restructure.
+- Recovery of impaired U.S. EBITDA: treat as upside unless paid for through an earn-out, rollover, or contingent structure.
+
+The objective is to acquire U.S. recovery optionality without paying full historic value for it.
+
+---
+
+## 9. Primary Sourcing Strategy
 
 The search should emphasize proprietary and semi-proprietary deal flow rather than relying primarily on public business-for-sale websites.
 
@@ -242,55 +253,82 @@ A particularly strong referral is an owner who wants to begin transitioning **be
 ### Priority referral channels
 
 1. **Senior accountants and partners at respected accounting firms**
-   - Audit partners with private-company portfolios.
-   - Corporate finance / M&A partners.
-   - Transaction advisory partners.
-   - Restructuring and turnaround partners.
-   - Tax partners serving founder-owned businesses.
-   - Private enterprise / family business leaders.
+2. Commercial and corporate bankers
+3. M&A and corporate lawyers
+4. Wealth managers and estate-planning professionals
+5. Restructuring professionals and insolvency trustees
+6. Independent M&A advisors and business brokers
+7. Private equity firms / independent sponsors / family offices
+8. Industry executives, distributors, and suppliers
 
-2. **Commercial and corporate bankers**
-   - Relationship managers with owner-operated businesses.
-   - Special loans / workout groups.
-   - Mid-market lenders.
-
-3. **M&A lawyers and corporate lawyers**
-   - Particularly those advising family-owned and middle-market companies.
-
-4. **Wealth managers and estate-planning professionals**
-   - Often see retirement and liquidity planning before a formal sale process exists.
-
-5. **Restructuring professionals and insolvency trustees**
-   - Useful for identifying pressure before or during a formal process.
-
-6. **Independent M&A advisors and business brokers**
-   - Focus on established businesses of meaningful scale rather than small owner-operator listings.
-
-7. **Private equity firms / independent sponsors / family offices**
-   - Particularly for orphaned portfolio companies, carve-outs, failed processes, or targets below fund-size thresholds.
-
-8. **Industry executives, distributors, and suppliers**
-   - Often know which competitors are under pressure or which long-time owners are ready to step back before advisors are formally engaged.
-
-### Accounting-firm focus
-
-The current sourcing hypothesis is that senior accountants are one of the best channels because they often know when a long-time client is:
-
-- approaching retirement;
-- facing succession issues;
-- suffering from tariff pressure;
-- considering a sale;
-- beginning to plan a transition before any urgency exists;
-- experiencing lender pressure;
-- unwilling to reinvest;
-- dealing with family ownership complexity; or
-- quietly open to a transaction before hiring an investment banker.
-
-Initial emphasis should include major firms such as **KPMG** plus other Big Four and strong Canadian/mid-market firms with substantial Quebec and Ontario private-company practices.
+Accountants are currently the **primary proactive outreach channel** because they often know years in advance when a long-time owner is approaching retirement, facing succession issues, dealing with family complexity, being hurt by tariffs, or quietly considering a transaction.
 
 ---
 
-## 9. Buyer Positioning
+## 10. Target Accountants & Outreach Status
+
+Detailed working tracker: [`outreach/ACCOUNTANT_OUTREACH.md`](outreach/ACCOUNTANT_OUTREACH.md)
+
+### Objective
+
+Build a highly curated list of approximately **50 senior accountants / accounting-firm partners** most likely to have founder-owned and family-owned clients matching the acquisition thesis, with Quebec first and Ontario second.
+
+The immediate goal is to build and verify a **Top 20** before expanding to 50.
+
+### Target roles
+
+- Private Enterprise / Private Company partners
+- Audit partners with substantial owner-managed mid-market portfolios
+- Tax partners with long-standing founder/family relationships
+- Corporate Finance / M&A partners
+- Transaction Advisory partners
+- Restructuring / Turnaround partners
+- Family Business / Succession Planning leaders
+
+### Firm focus
+
+- **KPMG — highest-priority named firm**
+- Other Big Four firms with substantial private-company practices
+- Strong Canadian and regional firms with deep Quebec/Ontario founder and family-business relationships
+
+### Current recorded outreach status — 2026-08-22
+
+| Stage | Confirmed Count |
+|---|---:|
+| Individual accountant targets formally loaded into tracker | 0 |
+| Direct emails verified | 0 |
+| Ready to contact | 0 |
+| Initial outreach sent | 0 |
+| Replies received | 0 |
+| Calls / meetings held | 0 |
+| Owner/company introductions received | 0 |
+
+**Important:** Earlier strategy work established the need for a 30–50 person accountant list, but no reliable individual send/reply history is currently recorded in the repository. Do not invent outreach history. Mark a contact as sent, replied, or introduced only when confirmed.
+
+### Outreach discipline
+
+Every accountant record should contain:
+
+- Name
+- Firm
+- Role
+- City
+- Verified direct email
+- Why the person is likely to have suitable clients
+- Relationship/referral path if any
+- Outreach status
+- Date buyer profile was sent
+- Last contact date
+- Response
+- Next action
+- Follow-up date
+- Any owner/company introduction received
+
+Buyer profile: [`outreach/BUYER_ONE_PAGER.md`](outreach/BUYER_ONE_PAGER.md)
+
+---
+
+## 11. Buyer Positioning
 
 The buyer should be positioned as a credible, long-term Canadian acquirer rather than as a broker looking to flip deals.
 
@@ -305,12 +343,11 @@ Core message:
 - Can assess opportunities quickly.
 - Values employees, brand heritage, customer relationships, and long-term continuity.
 - Does not need the company to be formally marketed.
-
-A concise **one-page buyer profile** should be used for referral partners.
+- Public buyer material should **not disclose internal valuation strategy or purchase-price targets**.
 
 ---
 
-## 10. Target Scoring Framework
+## 12. Target Scoring Framework
 
 Score each serious target from 1–5 on each factor.
 
@@ -329,8 +366,6 @@ Score each serious target from 1–5 on each factor.
 
 **Target score:** prioritize companies scoring **4.0/5 or higher**, with no fatal flaw hidden by the weighted average.
 
-Transition alignment should be considered within seller motivation / succession fit: preference for an owner willing to support a reasonable handoff, with optional minority rollover if useful.
-
 ### Automatic red flags
 
 - Structural demand decline.
@@ -347,32 +382,35 @@ Transition alignment should be considered within seller motivation / succession 
 
 ---
 
-## 11. Initial Financial Underwriting
+## 13. Initial Financial Underwriting
 
-For every target, reconstruct at least five earnings views where possible:
+For every target, reconstruct at least these earnings views where possible:
 
 1. Historical reported EBITDA.
 2. Historical normalized EBITDA.
 3. Current reported EBITDA.
-4. Current EBITDA excluding identifiable tariff or temporary-dislocation impact.
-5. Achievable post-acquisition EBITDA under a conservative operating plan.
+4. Sustainable Canada EBITDA.
+5. Sustainable non-U.S. international EBITDA.
+6. Sustainable current U.S. EBITDA.
+7. Historic U.S. EBITDA currently impaired by tariffs.
+8. Achievable post-acquisition EBITDA under a conservative operating plan.
 
 ### Core valuation outputs
 
 - Enterprise value.
 - Equity purchase price.
-- EV / current EBITDA.
+- EV / current sustainable EBITDA.
 - EV / normalized EBITDA.
 - Free cash flow yield.
 - Working capital required at closing.
 - Maintenance capex.
 - Debt capacity.
 - Seller-financing capacity.
+- Economics of any seller rollover equity.
 - Downside liquidation / asset value where relevant.
 - Three-year and five-year equity IRR.
 - Cash-on-cash return.
 - Exit multiple sensitivity.
-- Economics of any seller rollover equity.
 
 ### Tariff bridge
 
@@ -388,16 +426,14 @@ Every tariff-affected target should have a specific bridge quantifying:
 → other operating changes  
 → **current EBITDA**
 
-This prevents tariffs from becoming a vague explanation for unrelated deterioration.
-
 ---
 
-## 12. Due-Diligence Priorities
+## 14. Due-Diligence Priorities
 
 ### Commercial
 
 - Revenue by customer, geography, channel, and SKU.
-- U.S. versus Canadian revenue.
+- U.S. versus Canadian and other international revenue.
 - Customer retention and order trends.
 - Distribution agreements.
 - Retail shelf placement and velocity where applicable.
@@ -410,6 +446,7 @@ This prevents tariffs from becoming a vague explanation for unrelated deteriorat
 - Five years of financial statements if available.
 - Monthly results for the latest 24–36 months.
 - EBITDA normalization schedule.
+- EBITDA by geography, especially Canada vs. U.S. vs. other international markets.
 - Gross margin by product/category.
 - Working capital seasonality.
 - Inventory aging.
@@ -425,7 +462,7 @@ This prevents tariffs from becoming a vague explanation for unrelated deteriorat
 - Family and management succession dynamics.
 - Owner's ongoing operating role and what must be transferred.
 - Key customer, supplier, employee, and distributor relationships tied personally to the owner.
-- Seller's priorities beyond price: legacy, employees, brand, location, confidentiality, timing.
+- Seller priorities beyond price: legacy, employees, brand, location, confidentiality, timing.
 
 ### Tariff-specific
 
@@ -433,6 +470,7 @@ This prevents tariffs from becoming a vague explanation for unrelated deteriorat
 - Which party contractually bears tariffs.
 - U.S. distributor economics before and after tariffs.
 - Lost accounts or reduced orders attributable to tariffs.
+- Historic and current U.S. EBITDA.
 - Ability to move production or final assembly.
 - Country-of-origin rules.
 - Alternative sourcing.
@@ -451,9 +489,9 @@ This prevents tariffs from becoming a vague explanation for unrelated deteriorat
 
 ---
 
-## 13. Active Target Pipeline
+## 15. Active Target Pipeline
 
-| Target | Sector | Location | Revenue | Hist. EBITDA | Current EBITDA | Owner / Succession | Transition / Rollover | U.S. % | Asking / Est. EV | Status | Score | Notes |
+| Target | Sector | Location | Revenue | Hist. EBITDA | Sustainable EBITDA | Owner / Succession | Transition / Rollover | U.S. Exposure | Asking / Est. EV | Status | Score | Notes |
 |---|---|---|---:|---:|---:|---|---|---:|---:|---|---:|---|
 | _Add targets here_ | | | | | | | | | | | | |
 
@@ -475,23 +513,17 @@ This prevents tariffs from becoming a vague explanation for unrelated deteriorat
 
 ---
 
-## 14. Referral / Advisor Contact Pipeline
+## 16. Other Referral / Advisor Pipeline
+
+Use this for non-accountant referral sources. Accountant outreach belongs in the dedicated tracker above.
 
 | Name | Firm | Role | City | Email | Why Relevant | Status | Last Contact | Next Step |
 |---|---|---|---|---|---|---|---|---|
 | _Add contacts here_ | | | | | | | | |
 
-### Current outreach objective
-
-Build a highly curated list of approximately **50 senior accountants / advisors** most likely to have clients matching the acquisition thesis, with emphasis on Quebec and Ontario private-company practices.
-
-The ideal referral partner has long-standing relationships with **older founders and long-time owner-managers**, especially those thinking about succession or experiencing pressure from tariffs.
-
-Quality is more important than raw list size. Email addresses should be verified rather than guessed.
-
 ---
 
-## 15. Research Questions for Every Candidate
+## 17. Research Questions for Every Candidate
 
 1. How old is the business and how long has the current owner controlled it?
 2. Why is the owner considering a sale now?
@@ -503,64 +535,68 @@ Quality is more important than raw list size. Email addresses should be verified
 8. What exactly caused any recent earnings decline?
 9. How much of the decline can be directly attributed to tariffs or another identifiable temporary issue?
 10. What was normalized EBITDA before the dislocation?
-11. What would EBITDA be today at pre-dislocation economics?
-12. How durable is the brand?
-13. How valuable is the distribution network?
-14. Is there lender pressure?
-15. How much working capital is required?
-16. What must be fixed in the first 100 days?
-17. Who are the five most logical strategic buyers in three to five years?
-18. What is the downside if tariffs remain indefinitely?
-19. Can the company remain attractive without relying on tariff removal?
-20. What is the maximum price that still produces an exceptional risk-adjusted return?
+11. How much EBITDA comes from Canada, the U.S., and other international markets?
+12. What U.S. EBITDA remains sustainable under current tariff conditions?
+13. How durable is the brand?
+14. How valuable is the distribution network?
+15. Is there lender pressure?
+16. How much working capital is required?
+17. What must be fixed in the first 100 days?
+18. Who are the five most logical strategic buyers in three to five years?
+19. What is the downside if tariffs remain indefinitely?
+20. Can the company remain attractive without relying on tariff removal?
+21. What is the maximum price that still produces an exceptional risk-adjusted return?
 
 ---
 
-## 16. Current Priorities
+## 18. Current Priorities
 
 ### Immediate
 
-- [ ] Build the top-50 accountant/advisor referral list.
+- [ ] Build the **Top 20 accountant targets** in `outreach/ACCOUNTANT_OUTREACH.md`.
 - [ ] Prioritize advisors with long-standing older founder / succession relationships.
-- [ ] Verify direct email addresses and roles.
-- [x] Draft/finalize the one-page buyer profile.
+- [ ] Verify direct email addresses and roles; never guess emails.
+- [x] Finalize the one-page buyer profile.
+- [ ] Prepare the concise cover email for accountant outreach.
+- [ ] Send outreach in small, trackable batches and record every result.
 - [ ] Build an initial list of tariff-affected branded Canadian companies.
 - [ ] Build an initial list of established founder-owned companies where retirement/succession may be approaching.
 - [ ] Rank the most attractive spirits / CPG targets.
-- [ ] Identify founder-owned businesses with long histories and strong U.S. distribution.
-- [ ] Develop a repeatable target financial model.
+- [ ] Develop a repeatable target financial model with geographic EBITDA separation.
 
 ### After initial sourcing
 
+- [ ] Expand accountant list from Top 20 toward approximately 50 only after quality is proven.
 - [ ] Contact the highest-probability referral partners first.
-- [ ] Track every introduction and follow-up in this file.
+- [ ] Track every introduction and follow-up.
 - [ ] Add every credible acquisition candidate to the target pipeline.
 - [ ] Score each candidate consistently.
 - [ ] Build a normalized EBITDA and tariff bridge for serious dislocated targets.
-- [ ] Map owner succession dynamics, transition willingness, and potential rollover interest for serious targets.
+- [ ] Map owner succession dynamics, transition willingness, and potential rollover interest.
 - [ ] Identify financing options only after target economics are understood.
 
 ---
 
-## 17. Decision Principles
+## 19. Decision Principles
 
 1. **Buy the franchise, not the temporary earnings problem.**
 2. **A motivated succession seller can be as attractive as a distressed seller.**
 3. **The best opportunity may combine retirement motivation with temporary tariff-related pressure.**
-4. **Prefer a thoughtful transition over an abrupt exit.** The seller's knowledge and relationships can materially de-risk ownership transfer.
+4. **Prefer a thoughtful transition over an abrupt exit.** Seller knowledge and relationships can materially de-risk ownership transfer.
 5. **Seller rollover can be valuable for alignment, but it is never a requirement.** Buyer control remains essential.
 6. **Distress is useful only if the underlying business remains strong.**
 7. **A known brand and valuable distribution can be harder to recreate than manufacturing assets.**
-8. **Current EBITDA should not automatically define value when the cause of impairment is temporary — but normalized EBITDA must be proven, not assumed.**
+8. **Do not pay a multiple on tariff-impaired U.S. earnings that no longer exist.** Sustainable current earnings drive the base valuation; U.S. recovery is upside unless specifically paid for contingently.
 9. **Never rely solely on tariffs disappearing.** The investment must have an executable Plan B.
 10. **Price creates the margin of safety.** A good company can still be a bad acquisition at the wrong price.
 11. **Prefer proprietary deal flow.** The best opportunity may never appear on a public listing site.
 12. **Think about the exit before buying.** There should be a credible strategic buyer universe from day one.
 13. **For succession deals, understand what the seller values besides price.** A trusted transition can be a competitive advantage.
+14. **Do not reveal internal valuation anchors in public sourcing material.**
 
 ---
 
-## 18. Master Document Operating Rule
+## 20. Master Document Operating Rule
 
 This file is the canonical working record for the Business Purchase project.
 
@@ -568,21 +604,27 @@ After any material research, sourcing, target review, financial analysis, outrea
 
 When information becomes large enough to justify a separate supporting file, keep the key decision, status, and link/reference in `MASTER.md` so this document remains the project index and executive source of truth.
 
+Supporting files currently include:
+
+- [`outreach/BUYER_ONE_PAGER.md`](outreach/BUYER_ONE_PAGER.md) — circulation buyer profile
+- [`outreach/ACCOUNTANT_OUTREACH.md`](outreach/ACCOUNTANT_OUTREACH.md) — target accountants and outreach status
+
 ---
 
-## 19. Changelog
+## 21. Changelog
 
 ### 2026-08-22
 
 - Created `MASTER.md` as the project's living source of truth.
 - Established core acquisition thesis around high-quality Canadian branded businesses.
 - Clarified **two equally important acquisition triggers: succession/retirement and temporary tariff-related or other fixable dislocation**.
-- Defined the highest-priority opportunity as the intersection of both: an established owner ready to transition while a fundamentally strong business is temporarily pressured.
+- Defined the highest-priority opportunity as the intersection of both.
 - Added ideal seller profile, succession diligence, and owner-transition criteria.
 - Clarified preference for a seller who is **not in a rush to exit immediately** and is willing to support a measured transition.
 - Added **optional minority seller rollover** as an attractive but non-required transaction feature.
-- Updated target pipeline and diligence questions to track seller transition and rollover willingness.
-- Updated sourcing language to focus referral partners on older founders, long-time owners, succession planning, and tariff-related pressure.
-- Documented preferred sectors, financial parameters, geography, transaction structures, sourcing strategy, screening framework, diligence priorities, and pipeline templates.
-- Established senior accountants and advisors as a primary proprietary sourcing channel.
-- Finalized the buyer one-page profile and updated it to reflect both acquisition triggers, patient transition, and optional seller minority retention.
+- Finalized the buyer one-page profile.
+- Removed public purchase-price anchoring from buyer outreach material.
+- Added internal tariff-valuation rule: **no base valuation credit for tariff-impaired U.S. EBITDA that is not currently sustainable**; U.S. recovery is treated as upside unless paid for contingently.
+- Added dedicated **Target Accountants & Outreach Status** section.
+- Created `outreach/ACCOUNTANT_OUTREACH.md` as the canonical accountant sourcing and follow-up tracker.
+- Recorded that no individual accountant outreach history is yet reliably confirmed in the repository, preventing false status assumptions.
