@@ -10,12 +10,14 @@
 
 Acquire a fundamentally strong, established Canadian branded business where one or both of two acquisition triggers are present:
 
-1. **Succession / retirement:** a founder or long-time owner is ready to retire, step back, or achieve a full or near-full exit, ideally without an obvious family or management successor.
+1. **Succession / retirement:** a founder or long-time owner is ready to retire, step back, or achieve a meaningful liquidity event, ideally without an obvious family or management successor.
 2. **Temporary dislocation:** tariffs or another fixable issue have materially impaired current earnings or valuation while the underlying brand, demand, distribution, and franchise remain strong.
 
 The **highest-priority opportunity is where both are true at once**: an established owner is ready for the next chapter just as a temporary external pressure has made a good business harder to run or temporarily less valuable.
 
 The preferred opportunity is a company that was previously worth roughly **$20M–$30M**, had historically generated approximately **$3M–$6M EBITDA**, and can now potentially be acquired for roughly **$10M–$15M**, with flexibility for an exceptional fit.
+
+The preferred seller is **not in a rush to disappear immediately after closing**. A thoughtful transition is desirable, and the seller may retain a minority interest if that suits both parties. Seller rollover is attractive for continuity and alignment but is **not a requirement**.
 
 The core thesis is to buy a durable brand at an attractive price, preserve what made it valuable, stabilize or redirect the business where necessary, restore normalized earnings, and preserve multiple credible strategic exit paths.
 
@@ -26,12 +28,14 @@ The core thesis is to buy a durable brand at an attractive price, preserve what 
 ### Highest-priority seller characteristics
 
 - Founder or long-time owner, typically later in career.
-- Ready to retire, step back, or achieve a full or near-full liquidity event.
+- Ready to retire, step back, or achieve a meaningful majority or full liquidity event.
 - No clear family or internal successor, or successor does not want the business.
 - Has owned or operated the company for many years and has meaningful emotional attachment to what was built.
 - Values continuity of the brand, employees, customers, reputation, and legacy.
 - Would prefer a direct, confidential, thoughtful transaction over a broad auction if the right buyer is found.
-- Willing to support an orderly transition but does not want to remain the permanent operator.
+- **Not under pressure to exit immediately** and willing to support an orderly transition of relationships, knowledge, and operating context.
+- Open, if appropriate, to **retaining a minority equity interest after closing** and participating economically in the next chapter. This is preferred but not required.
+- Ultimately wants less day-to-day responsibility and a clear path to stepping back.
 
 ### Particularly attractive situations
 
@@ -39,15 +43,17 @@ The core thesis is to buy a durable brand at an attractive price, preserve what 
 - Founder fatigue after decades of ownership.
 - Family members are not interested in taking over.
 - Management team can operate the company but cannot finance a buyout.
-- Owner wants to de-risk personally and monetize the majority or all of the equity.
+- Owner wants to de-risk personally and monetize the majority or all of the equity while potentially keeping a minority stake.
 - Company has suffered a temporary tariff, FX, customer, channel, or other fixable earnings disruption just as the owner is considering retirement.
 - Owner has delayed succession because they have not found a buyer they trust.
+- Owner values a measured handoff over a rapid closing followed by an immediate departure.
 
 ### Seller situations that are less attractive
 
 - Owner wants to raise minority growth capital but remain firmly in control indefinitely.
 - Seller is seeking an unrealistic auction valuation with no genuine motivation to transact.
 - Founder is indispensable and unwilling to transition relationships or responsibilities.
+- Seller insists on disappearing immediately where substantial knowledge or relationships remain concentrated with them.
 - Sale is driven by permanent deterioration that the seller understands better than prospective buyers.
 
 ---
@@ -151,6 +157,15 @@ Preferred structures:
 
 The strongest opportunities are likely to be identified **before a formal sale process begins**.
 
+### Transition preference
+
+- No requirement for the seller to leave immediately at closing.
+- Prefer a **measured, cooperative transition** that protects customer, distributor, supplier, employee, and operating relationships.
+- Transition length should fit the business rather than an arbitrary deadline.
+- Seller may retain a **minority interest** after closing if mutually attractive, allowing continued alignment and participation in future upside.
+- Minority rollover is optional, not a condition of a transaction.
+- Buyer must obtain control; seller rollover should not prevent effective governance or decision-making.
+
 ### Potential structural tools
 
 Depending on the target:
@@ -158,13 +173,13 @@ Depending on the target:
 - Seller note.
 - Earn-out tied to normalized EBITDA or U.S. recovery.
 - Vendor take-back financing.
-- Limited rollover equity for founder/management if desired.
+- Minority rollover equity for founder/management if desired.
 - Working-capital adjustment.
 - Inventory financing.
 - Asset purchase versus share purchase optimization.
 - Contingent consideration tied to tariff relief or restored U.S. sales.
 
-The preferred outcome allows the owner to genuinely retire or step back after a reasonable transition period.
+The preferred outcome gives the owner meaningful liquidity and a path to retirement while allowing a **thoughtful handoff rather than an abrupt departure**.
 
 ---
 
@@ -172,7 +187,7 @@ The preferred outcome allows the owner to genuinely retire or step back after a 
 
 ### A. Succession / retirement
 
-A strong acquisition can exist even without operational distress if the owner is genuinely ready to exit and the business fits the brand, size, distribution, and economics criteria.
+A strong acquisition can exist even without operational distress if the owner is genuinely ready to transition and the business fits the brand, size, distribution, and economics criteria.
 
 The ideal succession pattern is:
 
@@ -182,6 +197,8 @@ The ideal succession pattern is:
 4. There is no obvious family or internal successor.
 5. The owner cares about continuity, reputation, employees, and legacy.
 6. A direct principal buyer can offer a more personal and flexible transition than a broad auction process.
+7. Owner is willing to remain involved long enough to transfer key relationships and institutional knowledge.
+8. Owner may, but need not, retain a minority interest after the transaction.
 
 ### B. Tariff / temporary dislocation
 
@@ -202,6 +219,8 @@ The preferred pattern is:
 
 The **highest-conviction target** is a long-time owner who was already considering retirement or succession and then experiences tariff-related or other temporary pressure. This combination can create both genuine motivation to sell and an unusually attractive valuation.
 
+An especially attractive version is an owner who wants substantial liquidity and reduced responsibility **but is willing to stay involved during a transition and perhaps retain a minority stake**, aligning incentives while the business stabilizes.
+
 The key underwriting question for every dislocated target is:
 
 > **Is the earnings decline temporary and fixable, or has the underlying franchise permanently deteriorated?**
@@ -217,6 +236,8 @@ The search should emphasize proprietary and semi-proprietary deal flow rather th
 The central referral question is:
 
 > **Which long-time business owner in your client base is approaching retirement, has no obvious successor, or is being worn down by tariffs or another temporary challenge — and may quietly be thinking about what happens next?**
+
+A particularly strong referral is an owner who wants to begin transitioning **before urgency forces a sale**, creating time for a thoughtful transaction and orderly handoff.
 
 ### Priority referral channels
 
@@ -259,6 +280,7 @@ The current sourcing hypothesis is that senior accountants are one of the best c
 - facing succession issues;
 - suffering from tariff pressure;
 - considering a sale;
+- beginning to plan a transition before any urgency exists;
 - experiencing lender pressure;
 - unwilling to reinvest;
 - dealing with family ownership complexity; or
@@ -278,6 +300,8 @@ Core message:
 - Equally interested in **succession/retirement situations** and **good businesses facing temporary tariff-related or other fixable pressure**.
 - The strongest fit may combine both.
 - Flexible on transaction structure and transition timing.
+- **Does not require an owner to exit immediately**; a thoughtful handoff is preferred.
+- Open to the seller **retaining a minority interest** if that serves both parties, but this is not required.
 - Can assess opportunities quickly.
 - Values employees, brand heritage, customer relationships, and long-term continuity.
 - Does not need the company to be formally marketed.
@@ -304,6 +328,8 @@ Score each serious target from 1–5 on each factor.
 | Customer concentration / working-capital risk | 2% |
 
 **Target score:** prioritize companies scoring **4.0/5 or higher**, with no fatal flaw hidden by the weighted average.
+
+Transition alignment should be considered within seller motivation / succession fit: preference for an owner willing to support a reasonable handoff, with optional minority rollover if useful.
 
 ### Automatic red flags
 
@@ -346,6 +372,7 @@ For every target, reconstruct at least five earnings views where possible:
 - Three-year and five-year equity IRR.
 - Cash-on-cash return.
 - Exit multiple sensitivity.
+- Economics of any seller rollover equity.
 
 ### Tariff bridge
 
@@ -393,6 +420,8 @@ This prevents tariffs from becoming a vague explanation for unrelated deteriorat
 
 - Why the owner is considering a sale now.
 - Desired retirement or transition timing.
+- Whether the seller wants or is willing to remain involved post-close and for how long.
+- Whether the seller would consider retaining a minority interest and on what terms.
 - Family and management succession dynamics.
 - Owner's ongoing operating role and what must be transferred.
 - Key customer, supplier, employee, and distributor relationships tied personally to the owner.
@@ -424,9 +453,9 @@ This prevents tariffs from becoming a vague explanation for unrelated deteriorat
 
 ## 13. Active Target Pipeline
 
-| Target | Sector | Location | Revenue | Hist. EBITDA | Current EBITDA | Owner / Succession | U.S. % | Asking / Est. EV | Status | Score | Notes |
-|---|---|---|---:|---:|---:|---|---:|---:|---|---:|---|
-| _Add targets here_ | | | | | | | | | | | |
+| Target | Sector | Location | Revenue | Hist. EBITDA | Current EBITDA | Owner / Succession | Transition / Rollover | U.S. % | Asking / Est. EV | Status | Score | Notes |
+|---|---|---|---:|---:|---:|---|---|---:|---:|---|---:|---|
+| _Add targets here_ | | | | | | | | | | | | |
 
 ### Pipeline stages
 
@@ -469,19 +498,21 @@ Quality is more important than raw list size. Email addresses should be verified
 3. Is retirement or succession a genuine driver?
 4. Is there an obvious family or management successor?
 5. What transition period does the owner want?
-6. What exactly caused any recent earnings decline?
-7. How much of the decline can be directly attributed to tariffs or another identifiable temporary issue?
-8. What was normalized EBITDA before the dislocation?
-9. What would EBITDA be today at pre-dislocation economics?
-10. How durable is the brand?
-11. How valuable is the distribution network?
-12. Is there lender pressure?
-13. How much working capital is required?
-14. What must be fixed in the first 100 days?
-15. Who are the five most logical strategic buyers in three to five years?
-16. What is the downside if tariffs remain indefinitely?
-17. Can the company remain attractive without relying on tariff removal?
-18. What is the maximum price that still produces an exceptional risk-adjusted return?
+6. Is the owner willing to remain involved during a measured handoff?
+7. Would the owner consider retaining a minority interest after closing?
+8. What exactly caused any recent earnings decline?
+9. How much of the decline can be directly attributed to tariffs or another identifiable temporary issue?
+10. What was normalized EBITDA before the dislocation?
+11. What would EBITDA be today at pre-dislocation economics?
+12. How durable is the brand?
+13. How valuable is the distribution network?
+14. Is there lender pressure?
+15. How much working capital is required?
+16. What must be fixed in the first 100 days?
+17. Who are the five most logical strategic buyers in three to five years?
+18. What is the downside if tariffs remain indefinitely?
+19. Can the company remain attractive without relying on tariff removal?
+20. What is the maximum price that still produces an exceptional risk-adjusted return?
 
 ---
 
@@ -506,7 +537,7 @@ Quality is more important than raw list size. Email addresses should be verified
 - [ ] Add every credible acquisition candidate to the target pipeline.
 - [ ] Score each candidate consistently.
 - [ ] Build a normalized EBITDA and tariff bridge for serious dislocated targets.
-- [ ] Map owner succession dynamics for serious targets.
+- [ ] Map owner succession dynamics, transition willingness, and potential rollover interest for serious targets.
 - [ ] Identify financing options only after target economics are understood.
 
 ---
@@ -516,14 +547,16 @@ Quality is more important than raw list size. Email addresses should be verified
 1. **Buy the franchise, not the temporary earnings problem.**
 2. **A motivated succession seller can be as attractive as a distressed seller.**
 3. **The best opportunity may combine retirement motivation with temporary tariff-related pressure.**
-4. **Distress is useful only if the underlying business remains strong.**
-5. **A known brand and valuable distribution can be harder to recreate than manufacturing assets.**
-6. **Current EBITDA should not automatically define value when the cause of impairment is temporary — but normalized EBITDA must be proven, not assumed.**
-7. **Never rely solely on tariffs disappearing.** The investment must have an executable Plan B.
-8. **Price creates the margin of safety.** A good company can still be a bad acquisition at the wrong price.
-9. **Prefer proprietary deal flow.** The best opportunity may never appear on a public listing site.
-10. **Think about the exit before buying.** There should be a credible strategic buyer universe from day one.
-11. **For succession deals, understand what the seller values besides price.** A trusted transition can be a competitive advantage.
+4. **Prefer a thoughtful transition over an abrupt exit.** The seller's knowledge and relationships can materially de-risk ownership transfer.
+5. **Seller rollover can be valuable for alignment, but it is never a requirement.** Buyer control remains essential.
+6. **Distress is useful only if the underlying business remains strong.**
+7. **A known brand and valuable distribution can be harder to recreate than manufacturing assets.**
+8. **Current EBITDA should not automatically define value when the cause of impairment is temporary — but normalized EBITDA must be proven, not assumed.**
+9. **Never rely solely on tariffs disappearing.** The investment must have an executable Plan B.
+10. **Price creates the margin of safety.** A good company can still be a bad acquisition at the wrong price.
+11. **Prefer proprietary deal flow.** The best opportunity may never appear on a public listing site.
+12. **Think about the exit before buying.** There should be a credible strategic buyer universe from day one.
+13. **For succession deals, understand what the seller values besides price.** A trusted transition can be a competitive advantage.
 
 ---
 
@@ -544,9 +577,12 @@ When information becomes large enough to justify a separate supporting file, kee
 - Created `MASTER.md` as the project's living source of truth.
 - Established core acquisition thesis around high-quality Canadian branded businesses.
 - Clarified **two equally important acquisition triggers: succession/retirement and temporary tariff-related or other fixable dislocation**.
-- Defined the highest-priority opportunity as the intersection of both: an established owner ready to exit while a fundamentally strong business is temporarily pressured.
+- Defined the highest-priority opportunity as the intersection of both: an established owner ready to transition while a fundamentally strong business is temporarily pressured.
 - Added ideal seller profile, succession diligence, and owner-transition criteria.
+- Clarified preference for a seller who is **not in a rush to exit immediately** and is willing to support a measured transition.
+- Added **optional minority seller rollover** as an attractive but non-required transaction feature.
+- Updated target pipeline and diligence questions to track seller transition and rollover willingness.
 - Updated sourcing language to focus referral partners on older founders, long-time owners, succession planning, and tariff-related pressure.
 - Documented preferred sectors, financial parameters, geography, transaction structures, sourcing strategy, screening framework, diligence priorities, and pipeline templates.
 - Established senior accountants and advisors as a primary proprietary sourcing channel.
-- Finalized the initial buyer one-page profile and updated it to reflect both acquisition triggers.
+- Finalized the buyer one-page profile and updated it to reflect both acquisition triggers, patient transition, and optional seller minority retention.
