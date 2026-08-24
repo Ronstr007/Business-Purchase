@@ -2,7 +2,7 @@
 
 > **Purpose:** Preserve the relationship-based personalization that should be used in acquisition sourcing emails. Each recipient should receive a genuinely customized note, not a mail-merge email.
 >
-> Last updated: **2026-08-22**
+> Last updated: **2026-08-24**
 
 ---
 
@@ -16,6 +16,7 @@ Every recipient email should be written individually around:
 4. A low-pressure ask: keep Ron in mind when an appropriate owner begins thinking about succession, retirement, liquidity, tariffs, or another temporary challenge.
 5. Never ask the recipient to breach client confidentiality.
 6. Attach the bilingual buyer profile where appropriate.
+7. **Every acquisition outreach email must be signed exactly: `Ron Shlien, MSM`.** This is a locked signature rule. Do not shorten it to `Ron`, `Ron Shlien`, or any other variation.
 
 The personalization should feel natural and understated. Do not stack credentials or force a connection when a more personal one exists.
 
